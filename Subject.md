@@ -38,6 +38,7 @@
             - Creat Section ID Then a, attribute : href, value : #ID name 
 15. Immage Tas --> img (src="./folder name/file name.extension), alt, hiegit. 
  16. Basic Tabel
+
     ```html
     <table>
         <thead>
@@ -57,7 +58,8 @@
                     </td>
                         </td>
                     </tr>
-                <tbody>```
+                <tbody>
+    ```
  17. Basic from
  18. Entity --> & copy ; or Unicode table .com 
  18. deploy--> To see remote server. 
