@@ -57,10 +57,7 @@
                     </td>
                         </td>
                     </tr>
-
-
-                <tbody>
-        <table>```
+                <tbody>```
  17. Basic from
  18. Entity --> & copy ; or Unicode table .com 
  18. deploy--> To see remote server. 
