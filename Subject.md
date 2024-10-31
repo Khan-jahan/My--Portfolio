@@ -60,10 +60,10 @@
 
 
                 <tbody>
-
-        <table>
+        <table>```
  17. Basic from
- 18. deploy
+ 18. Entity --> & copy ; or Unicode table .com 
+ 18. deploy--> To see remote server. 
 
 
 
