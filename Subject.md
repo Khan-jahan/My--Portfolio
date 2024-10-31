@@ -11,11 +11,13 @@
     - <strong>Code Editor: </strong> Vs Code 
     - <strong>Browser: </strong> google Chorme 
     - <strong>version Control: </strong> git & Github
-     - <strong> VS Code Extension: </strong> live server, prettier Code Formatter. 
+     - <strong> VS Code Extension: </strong> live server, prettier Code Formatter, Auto Rename tag,   
 6. Basic structure of HTML.
     - Head, body 
 7. Basic tags
-    - Tag ? Types of Tag
+    <strong>Tag<strong>
+        - br, em, mark, del, sup, sub, p, hr, strong, b, h1 to h6, 
+    Types of Tag
     - Attribute 
     - elements, content 
     - comments
@@ -28,9 +30,40 @@
      - HTML Validator.
  12. Text Formatting tags
  13. list 
- 14. Tabel
- 14. from 
- 15. deploy
+    - ordered list, unordered list, definition (dl), definaton discribed (DD) list & nested list
+ 14. Absolit Link & Internal Link 
+        - Absolit Link
+            a, attribute : href, target, title
+        - Internal Link 
+            - Creat Section ID Then a, attribute : href, value : #ID name 
+15. Immage Tas --> img (src="./folder name/file name.extension), alt, hiegit. 
+ 16. Basic Tabel
+    ```html
+    <table>
+        <thead>
+            </thead>
+            <tr>
+                <th>
+                    <th>
+                <tr>
+
+            <tbody>
+                <tr>
+                    </td>
+                        </td>
+                    </tr>
+
+                        </tr>
+                    </td>
+                        </td>
+                    </tr>
+
+
+                <tbody>
+
+        <table>
+ 17. Basic from
+ 18. deploy
 
 
 
